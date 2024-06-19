@@ -1,16 +1,20 @@
+import java.io.Serializable;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class MergeInterval {
+public class MergeInterval implements Serializable {
     public static void main(String[] args) {
        int [] [] input = sortInput(new int [][] {{1, 3}, {2,6},{8,10},{8,9},{9,11},{15,18},{2,4},{16,17}});
         List<int[]> interval = getInterval(input);
         System.out.println(Arrays.deepToString(interval.toArray()));
     }
 
+    Object readResolve(){
+        return null;
+    }
     private static List<int[]> getInterval(int[][] input) {
 
         int[] newInterval = input[0];
