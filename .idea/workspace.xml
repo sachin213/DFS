@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="Reverse the string word">
+      <change afterPath="$PROJECT_DIR$/src/CustomSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RequiredMeetingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RequiredMeetingRoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +49,16 @@
       <recent name="C:\Users\daves\IdeaProjects\DFS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RequiredMeetingRoom">
+  <component name="RunManager" selected="Application.CustomSorting">
     <configuration name="AttendAllMeeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AttendAllMeeting" />
+      <module name="DFS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomSorting" />
       <module name="DFS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,20 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
-      <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomSorting" />
         <item itemvalue="Application.RequiredMeetingRoom" />
         <item itemvalue="Application.AttendAllMeeting" />
         <item itemvalue="Application.ReverseStrWord" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719075535164</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Reverse the string word">
+      <created>1719077300487</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077300487</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +225,21 @@
           <url>file://$PROJECT_DIR$/src/ReverseStrWord.java</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CustomSorting.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CustomSorting.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CustomSorting.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
