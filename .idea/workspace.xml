@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="Merge sorting order">
-      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReverseStrWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseStrWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +49,7 @@
       <recent name="C:\Users\daves\IdeaProjects\DFS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeSum">
-    <configuration name="MergeInterval2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeInterval2" />
-      <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseStrWord">
     <configuration name="MergeOverlappingInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeOverlappingInterval" />
       <module name="DFS" />
@@ -68,6 +59,13 @@
     </configuration>
     <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
+      <module name="DFS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStrWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStrWord" />
       <module name="DFS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseStrWord" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.MergeOverlappingInterval" />
-        <item itemvalue="Application.MergeInterval2" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719062383878</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge sorting order">
+      <created>1719065192185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719065192185</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
