@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="Reverse the string word">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AttendAllMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AttendAllMeeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RequiredMeetingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RequiredMeetingRoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <recent name="C:\Users\daves\IdeaProjects\DFS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AttendAllMeeting">
+  <component name="RunManager" selected="Application.RequiredMeetingRoom">
     <configuration name="AttendAllMeeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AttendAllMeeting" />
       <module name="DFS" />
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortedArray" />
+    <configuration name="RequiredMeetingRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RequiredMeetingRoom" />
       <module name="DFS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RequiredMeetingRoom" />
         <item itemvalue="Application.AttendAllMeeting" />
         <item itemvalue="Application.ReverseStrWord" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719074113386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reverse the string word">
+      <created>1719075535164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719075535164</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
