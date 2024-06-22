@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="MergeInterval">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttendAllMeeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeOverlappingInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RequiredMeetingRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseStrWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeInterval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeInterval2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeInterval3.java" beforeDir="false" />
+    <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="Merge sorting order">
+      <change afterPath="$PROJECT_DIR$/src/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseStrWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseStrWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,23 +51,9 @@
       <recent name="C:\Users\daves\IdeaProjects\DFS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSortedArray">
-    <configuration name="MergeInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeInterval" />
-      <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration name="MergeInterval2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeInterval2" />
-      <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeInterval3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeInterval3" />
       <module name="DFS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,13 +73,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
+      <module name="DFS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <module name="DFS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.MergeOverlappingInterval" />
         <item itemvalue="Application.MergeInterval2" />
-        <item itemvalue="Application.MergeInterval3" />
-        <item itemvalue="Application.MergeInterval" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718821107894</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge sorting order">
+      <created>1719054625319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719054625319</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge sorting order">
+      <created>1719062383878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719062383878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +173,28 @@
     <MESSAGE value="sorting" />
     <MESSAGE value="twosum" />
     <MESSAGE value="MergeInterval" />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeInterval" />
+    <MESSAGE value="Merge sorting order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge sorting order" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
