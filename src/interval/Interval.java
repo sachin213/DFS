@@ -1,8 +1,5 @@
 package interval;
 
-import lombok.Data;
-import lombok.ToString;
-
 
 class Interval {
     public int start, end;
