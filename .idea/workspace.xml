@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="Reverse the string word">
-      <change afterPath="$PROJECT_DIR$/src/agoda/BSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interval/MergeINterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interval/RemoveInterval.java" afterDir="false" />
+    <list default="true" id="0cccb275-2aeb-47bb-a1d3-328abc881c07" name="Changes" comment="practice  session">
+      <change afterPath="$PROJECT_DIR$/src/agoda/AnagramStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agoda/AnagramStr2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interval/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interval/Interval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +52,22 @@
       <recent name="C:\Users\daves\IdeaProjects\DFS\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BSort">
-    <configuration name="BSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="agoda.BSort" />
+  <component name="RunManager" selected="Application.AnagramStr">
+    <configuration name="AnagramStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agoda.AnagramStr" />
+      <module name="DFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agoda.AnagramStr" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnagramStr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agoda.AnagramStr2" />
       <module name="DFS" />
       <extension name="coverage">
         <pattern>
@@ -68,35 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agoda.BSort" />
+      <module name="DFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agoda.AnagramStr" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicatePresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicatePresent" />
       <module name="DFS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberOfDaysToAttend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interval.NumberOfDaysToAttend" />
-      <module name="DFS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interval.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interval.RemoveInterval" />
-      <module name="DFS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interval.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnagramStr" />
+        <item itemvalue="Application.AnagramStr2" />
         <item itemvalue="Application.BSort" />
         <item itemvalue="Application.DuplicatePresent" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.RemoveInterval" />
-        <item itemvalue="Application.NumberOfDaysToAttend" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719077300487</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="practice  session">
+      <created>1777654143971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777654143971</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +235,8 @@
     <MESSAGE value="MergeInterval" />
     <MESSAGE value="Merge sorting order" />
     <MESSAGE value="Reverse the string word" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse the string word" />
+    <MESSAGE value="practice  session" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice  session" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
